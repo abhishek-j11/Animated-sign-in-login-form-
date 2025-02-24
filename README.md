@@ -10,7 +10,7 @@ A sleek and modern Sign In/Login form built with pure HTML & CSS. Designed for s
 - ⚡ **Fast & Lightweight** (No JavaScript needed)
 
 ## 📸 Preview
-![Login Form Preview](abhi-11.netlify.app)
+abhi-11.netlify.app
 
 ## 🛠️ Installation
 1. **Clone the repository**
